@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the conceptual framework for **Emergenzmodell v1.6**, a minimalist, threshold-based model for simulating an embodied AI child. The goal is to enable emergent behaviors—such as self-efficacy, volition, planning, and protolinguistic grammar—using simple components like thresholds, noise, a Success Log, and an imagination space. Inspired by developmental psychology, the model emphasizes endogenous motivation and conflict-driven maturation without relying on extrinsic rewards.
+This repository hosts the conceptual framework for **Emergence Model for a Developmental AI Child**, a minimalist, threshold-based model for simulating an embodied AI child. The goal is to enable emergent behaviors—such as self-efficacy, volition, planning, and protolinguistic grammar—using simple components like thresholds, noise, a Success Log, and an imagination space. Inspired by developmental psychology, the model emphasizes endogenous motivation and conflict-driven maturation without relying on extrinsic rewards.
 
 Currently, the repository contains the initial documentation, including an overview and a detailed concept paper. Implementation and further development are planned.
 
