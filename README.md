@@ -10,7 +10,8 @@ Currently, the repository contains the initial documentation, including an overv
 
 - **notes/**  
   - `Emergence Model.md`: Brief summary of the model's core ideas and components.  
-  - `An Emergence Model for a Developmental AI Child.md`: Concept paper detailing the architecture, mechanisms, evaluation KPIs, and expected emergences.  
+  - `An Emergence Model for a Developmental AI Child.md`: Concept paper detailing the architecture, mechanisms, evaluation KPIs, and expected emergences.
+  - `Kick-off Checklist.md`: Practical checklist for starting implementation from empty repo to Phase 2 (P2).
 - **README.md**: This file, providing project context and status.
 
 ## Current Status
