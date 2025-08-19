@@ -1,2 +1,2 @@
 # Emergence-Model
-Emergence Model for a Developmental AI Child
+Objective: Simulate an artificial agent ("child") whose abilities, motivations, cognition, and language are not fully pre-scripted but emerge through thresholds, training, interaction, conflicts, and contextualization.Principle: Minimal base parameters + threshold conditions + noise → dynamics → autonomous developmental steps.Parallel to Book 2: Blockades (conflicts, disturbances, noise) are essential for maturation, as they force the child to develop new solutions. Self-efficacy ("I act → the world changes") arises via a Success Log.👉 Trivial in its components, complex in its emergent dynamics.
